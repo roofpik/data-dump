@@ -1,0 +1,44 @@
+{
+	  "rules":{
+			    ".read":  "auth.uid !== null && root.child('masterAdmin/'+ auth.uid).val() === true",
+					    ".write": "auth.uid !== null && root.child('masterAdmin/'+ auth.uid).val() === true",
+							    "masterAdmin":{
+										      ".read": false,
+													      ".write": false
+																    },
+																		    "admins":{
+																					      ".read": "auth.uid !== null && root.child('databaseAccess/admins/read/' + auth.uid).val() === true",
+																								      ".write": "auth.uid !== null && root.child('databaseAccess/admins/write/' + auth.uid).val() === true",
+																											        "$user_id": {
+																																        ".read": "$user_id === auth.uid",
+																																				          ".write": "$user_id === auth.uid"
+																																									      }
+																																												    },
+																																														    "databaseAccess":{
+																																																	      "$data":{
+																																																					        ".read": false,
+																																																									        ".write": false
+																																																													      }
+																																																																    },
+																																																																		    "$data":{
+																																																																					      ".read":  "auth.uid !== null && root.child('databaseAccess/' + $data + '/read/' + auth.uid).val() === true",
+																																																																								      ".write": "auth.uid !== null && root.child('databaseAccess/' + $data + '/write/'+ auth.uid).val() === true"
+																																																																											    },
+																																																																													    "users":{
+																																																																																      "data":{
+																																																																																				      "$uid":{
+																																																																																								      ".read": "auth.uid !== null && auth.uid === $uid ",
+																																																																																											      ".write": "auth.uid !== null && $uid === auth.uid "
+																																																																																														      }
+																																																																																																	      }
+																																																																																																				    },
+																																																																																																						      "blogs": {
+																																																																																																										        ".read": true,
+																																																																																																														          ".write": "auth.uid !== null"
+																																																																																																																			      },
+																																																																																																																						        "tags":{
+																																																																																																																											          ".read": true,
+																																																																																																																																          ".write": "auth.uid !== null"
+																																																																																																																																					        }
+																																																																																																																																									  }
+}

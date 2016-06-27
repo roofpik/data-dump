@@ -1,0 +1,252 @@
+{
+  "admins" : {
+    "bhptnfQoq1eEytRBbjjGDrv40oC2" : {
+      "active_flag" : 1,
+      "admin_id" : "bhptnfQoq1eEytRBbjjGDrv40oC2",
+      "current_city" : "1",
+      "designation" : "CEO, Roofpik",
+      "email" : "arpit@roofpik.com",
+      "email_flag" : 1,
+      "employee_number" : "ROOF1",
+      "fname" : "Arpit",
+      "lname" : "Mittal",
+      "marketing_manager" : "bhptnfQoq1eEytRBbjjGDrv40oC2",
+      "mobile_flag" : 0,
+      "team" : "Technical",
+      "tracking_id" : "bhptnfQoq1eEytRBbjjGDrv40oC2",
+      "uid" : "bhptnfQoq1eEytRBbjjGDrv40oC2",
+      "validation_manager" : "bhptnfQoq1eEytRBbjjGDrv40oC2"
+    }
+  },
+  "city" : {
+    "-KKwFI52ZEHYVeLcSRyi" : {
+      "cityId" : "-KKwFI52ZEHYVeLcSRyi",
+      "cityName" : "Gurgaon",
+      "country" : "India",
+      "lat" : 77.877474,
+      "lng" : 67.87676,
+      "state" : "Haryana"
+    },
+    "-KKwMwFXhpDY3pJ63aHh" : {
+      "cityId" : "-KKwMwFXhpDY3pJ63aHh",
+      "cityName" : "Bangalore",
+      "country" : "India",
+      "lat" : 77.877474,
+      "lng" : 67.87676,
+      "state" : "Karnataka"
+    }
+  },
+  "constructionPartners" : {
+    "-KKryw3bO6yD0SYaIoee" : {
+      "active_flag" : 1,
+      "company_type" : "Architect",
+      "name" : "Arch1",
+      "partner_id" : "-KKryw3bO6yD0SYaIoee",
+      "tracking_id" : "bhptnfQoq1eEytRBbjjGDrv40oC2",
+      "website" : "eiffeltower.com"
+    },
+    "-KKrz11iVS-j1V8ba1f2" : {
+      "active_flag" : 1,
+      "company_type" : "Construction Company",
+      "name" : "Company 1",
+      "partner_id" : "-KKrz11iVS-j1V8ba1f2",
+      "tracking_id" : "bhptnfQoq1eEytRBbjjGDrv40oC2",
+      "website" : "sas.com"
+    },
+    "-KKrzAlZo5dk4uQL5xq7" : {
+      "active_flag" : 1,
+      "company_type" : "Landscape Design",
+      "name" : "Design 1",
+      "partner_id" : "-KKrzAlZo5dk4uQL5xq7",
+      "tracking_id" : "bhptnfQoq1eEytRBbjjGDrv40oC2",
+      "website" : "des.com"
+    },
+    "-KKsG-d3FrDxNAtqIHaM" : {
+      "active_flag" : 1,
+      "company_type" : "Construction Company",
+      "name" : "Sample 2",
+      "partner_id" : "-KKsG-d3FrDxNAtqIHaM",
+      "tracking_id" : "bhptnfQoq1eEytRBbjjGDrv40oC2",
+      "website" : "comp2.com"
+    }
+  },
+  "databaseAccess" : {
+    "admins" : {
+      "data" : {
+        "name" : "admins"
+      }
+    },
+    "constructionPartners" : {
+      "data" : {
+        "name" : "constructionPartners"
+      }
+    },
+    "developers" : {
+      "data" : {
+        "name" : "developers"
+      }
+    },
+    "projects" : {
+      "data" : {
+        "name" : "projects"
+      }
+    },
+    "users" : {
+      "data" : {
+        "name" : "users"
+      }
+    }
+  },
+  "developers" : {
+    "-KKrwBvDW9eLgQ08Jldq" : {
+      "about" : "Historic Place",
+      "active_flag" : 1,
+      "address1" : "18, Neelam Society, Opp. Lake View Garden",
+      "address2" : "Dumas Road",
+      "alt_mob" : "9876567890",
+      "area_constructed" : "18000",
+      "city" : "Surat",
+      "developer_id" : "-KKrwBvDW9eLgQ08Jldq",
+      "email" : "asd@cbd.com",
+      "established" : "2016",
+      "landmark" : "Gujarat",
+      "mobile" : "9876543210",
+      "name" : "Developer 1",
+      "tracking_id" : "bhptnfQoq1eEytRBbjjGDrv40oC2",
+      "website" : "rwhaetn.com"
+    },
+    "-KKs1me0Htos04Re_zS3" : {
+      "about" : "Historic Place",
+      "active_flag" : 1,
+      "address1" : "18, Neelam Society, Opp. Lake View Garden",
+      "address2" : "Dumas Road",
+      "alt_mob" : "1234567890",
+      "area_constructed" : "18000",
+      "city" : "Surat",
+      "developer_id" : "-KKs1me0Htos04Re_zS3",
+      "email" : "asd@cbd.com",
+      "established" : "2016",
+      "landmark" : "Gujarat",
+      "mobile" : "9876543210",
+      "name" : "Developer 2",
+      "tracking_id" : "bhptnfQoq1eEytRBbjjGDrv40oC2",
+      "website" : "rwhaetn.com"
+    },
+    "-KKs2ETcxi70SrQY6hKP" : {
+      "about" : "a",
+      "active_flag" : 1,
+      "address1" : "a",
+      "address2" : "a",
+      "alt_mob" : "8609441955",
+      "area_constructed" : "aa",
+      "city" : "a",
+      "developer_id" : "-KKs2ETcxi70SrQY6hKP",
+      "email" : "saurabhsrivastava1995@gmail.com",
+      "established" : "7894",
+      "landmark" : "a",
+      "mobile" : "8609441955",
+      "name" : "a",
+      "tracking_id" : "bhptnfQoq1eEytRBbjjGDrv40oC2",
+      "website" : "www.roof.com"
+    }
+  },
+  "location" : {
+    "-KKwFI52ZEHYVeLcSRyi" : {
+      "-KKwcT8GOwA7mQ-NufEo" : {
+        "cityId" : "-KKwFI52ZEHYVeLcSRyi",
+        "cityName" : "Gurgaon",
+        "lat" : 77.877474,
+        "lng" : 67.87676,
+        "locationId" : "-KKwcT8GOwA7mQ-NufEo",
+        "locationName" : "Sector 49",
+        "zoneId" : "-KKwcBPXhCsEflqDzwwf",
+        "zoneName" : "Sohna Road"
+      },
+      "-KKwcWMrKQfZZfxc6d7R" : {
+        "cityId" : "-KKwFI52ZEHYVeLcSRyi",
+        "cityName" : "Gurgaon",
+        "lat" : 77.877474,
+        "lng" : 67.87676,
+        "locationId" : "-KKwcWMrKQfZZfxc6d7R",
+        "locationName" : "Sector 48",
+        "zoneId" : "-KKwJ-VYTZlRmrhavJvR",
+        "zoneName" : "Sohna Road"
+      }
+    }
+  },
+  "masterAdmin" : {
+    "bhptnfQoq1eEytRBbjjGDrv40oC2" : true
+  },
+  "projects" : {
+    "data" : {
+      "asdfgh" : {
+        "channels" : {
+          "-KLCO4gJ9c6ieiLhizjx" : {
+            "channel_id" : "-KLCO4gJ9c6ieiLhizjx",
+            "name" : "zdfnzdnzdfn",
+            "purpose" : "dfbzdfnsfndzn"
+          },
+          "-KLCOzEFkffviIgw4x7h" : {
+            "channel_id" : "-KLCOzEFkffviIgw4x7h",
+            "name" : "ascadvsd",
+            "purpose" : "asdvasfasf"
+          },
+          "channel_id1" : {
+            "channel_id" : "channel_id1",
+            "name" : "Table Tennis",
+            "purpose" : "Table tennis group"
+          },
+          "channel_id2" : {
+            "channel_id" : "channel_id2",
+            "name" : "Cricket",
+            "purpose" : "Cricket Group"
+          }
+        },
+        "name" : "project2",
+        "project_id" : "asdfgh"
+      },
+      "qwerty" : {
+        "channels" : {
+          "channel_id3" : {
+            "channel_id" : "channel_id3",
+            "name" : "Football",
+            "purpose" : "Football group"
+          }
+        },
+        "name" : "project1",
+        "project_id" : "qwerty"
+      },
+      "zxcvbn" : {
+        "channels" : {
+          "channel_id4" : {
+            "channel_id" : "channel_id4",
+            "name" : "Basketball",
+            "purpose" : "Basketball group"
+          }
+        },
+        "name" : "project3",
+        "project_id" : "zxcvbn"
+      }
+    }
+  },
+  "zone" : {
+    "-KKwFI52ZEHYVeLcSRyi" : {
+      "-KKwcBPXhCsEflqDzwwf" : {
+        "cityId" : "-KKwFI52ZEHYVeLcSRyi",
+        "cityName" : "Gurgaon",
+        "lat" : 77.877474,
+        "lng" : 67.87676,
+        "zoneId" : "-KKwcBPXhCsEflqDzwwf",
+        "zoneName" : "MG Road"
+      },
+      "-KKwcGzZH02eLAVFZyvz" : {
+        "cityId" : "-KKwFI52ZEHYVeLcSRyi",
+        "cityName" : "Gurgaon",
+        "lat" : 77.877474,
+        "lng" : 67.87676,
+        "zoneId" : "-KKwcGzZH02eLAVFZyvz",
+        "zoneName" : "Sohna Road"
+      }
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "admins" : {
+    "P39A95AvbLYLBqZXJUoIlXrpgcx1" : {
+      "admin_id" : "P39A95AvbLYLBqZXJUoIlXrpgcx1",
+      "current_city" : "1",
+      "designation" : "CEO, Roofpik",
+      "email" : "arpit@fab2u.com",
+      "employee_number" : "FAB1",
+      "fname" : "Arpit",
+      "lname" : "Mittal",
+      "marketing_manager" : "P39A95AvbLYLBqZXJUoIlXrpgcx1",
+      "reportedBy" : {
+        "dataValidation" : {
+          "P39A95AvbLYLBqZXJUoIlXrpgcx1" : true
+        },
+        "marketing" : {
+          "P39A95AvbLYLBqZXJUoIlXrpgcx1" : true
+        }
+      },
+      "team" : "Technical",
+      "tracking_id" : "P39A95AvbLYLBqZXJUoIlXrpgcx1",
+      "validation_manager" : "P39A95AvbLYLBqZXJUoIlXrpgcx1"
+    },
+    "x64lnppaucUWopbXat7H7K106P32" : {
+      "active_flag" : true,
+      "admin_id" : "x64lnppaucUWopbXat7H7K106P32",
+      "created_date" : "2016-06-24 17:16:53.029648",
+      "current_city" : "1",
+      "designation" : "Application Programmer",
+      "email" : "deepank411@gmail.com",
+      "email_flag" : true,
+      "employee_number" : "FAB2",
+      "fname" : "Deepank",
+      "lname" : "Agarwal",
+      "marketing_manager" : "x64lnppaucUWopbXat7H7K106P32",
+      "mobile_flag" : false,
+      "reportedBy" : {
+        "dataValidation" : {
+          "x64lnppaucUWopbXat7H7K106P32" : true
+        },
+        "marketing" : {
+          "x64lnppaucUWopbXat7H7K106P32" : true
+        }
+      },
+      "team" : "Technical",
+      "tracking_id" : "P39A95AvbLYLBqZXJUoIlXrpgcx1",
+      "uid" : "x64lnppaucUWopbXat7H7K106P32",
+      "validation_manager" : "x64lnppaucUWopbXat7H7K106P32",
+      "verification" : {
+        "active_flag" : false,
+        "code" : "387-813-317-128",
+        "created_date" : "2016-06-24 17:16:53.029704",
+        "matching_id" : "deepank411@gmail.com",
+        "used_flag" : true,
+        "verified_date" : "2016-06-24 17:19:23.816249"
+      }
+    }
+  },
+  "blogs" : {
+    "-KKqsIiu77aWedyyre7U" : {
+      "active" : true,
+      "banner" : {
+        "banner_type" : "Image",
+        "banner_url" : "http://searchengineland.com/figz/wp-content/seloads/2015/12/google-amp-fast-speed-travel-ss-1920-800x450.jpg"
+      },
+      "blog_id" : "-KKqsIiu77aWedyyre7U",
+      "created_time" : 1466578321400,
+      "introduction" : "first feed #first#feed #firebase",
+      "likes" : 0,
+      "tags" : {
+        "feed" : true,
+        "firebase" : true,
+        "first" : true
+      },
+      "title" : "first feed",
+      "user" : {
+        "user_id" : "3BfWPQJ8pEfgd5qdtb0GgGE7rwo1",
+        "user_name" : "Sample User"
+      }
+    },
+    "-KKvdnAeudrlgicCoSpJ" : {
+      "active" : true,
+      "banner" : {
+        "banner_type" : "Image",
+        "banner_url" : "http://searchengineland.com/figz/wp-content/seloads/2015/12/google-amp-fast-speed-travel-ss-1920-800x450.jpg"
+      },
+      "blog_id" : "-KKvdnAeudrlgicCoSpJ",
+      "created_time" : 1466658404147,
+      "introduction" : "#second#firebase asfsdgs #feed",
+      "likes" : 0,
+      "tags" : {
+        "feed" : true,
+        "firebase" : true,
+        "second" : true
+      },
+      "title" : "Sample Feed 2",
+      "user" : {
+        "user_id" : "3BfWPQJ8pEfgd5qdtb0GgGE7rwo1",
+        "user_name" : "Deepank Agarwal"
+      }
+    },
+    "-KL2mhlKVlSa_m1e477B" : {
+      "active" : true,
+      "banner" : {
+        "banner_type" : "Image",
+        "banner_url" : "http://dfwtabletennis.com/wp-content/uploads/2015/02/table-tennis-92-p.jpg"
+      },
+      "blog_id" : "-KL2mhlKVlSa_m1e477B",
+      "created_time" : 1466794725833,
+      "introduction" : "sdvsdb #tt #first",
+      "likes" : 0,
+      "tags" : {
+        "first" : true,
+        "tt" : true
+      },
+      "title" : "Sample",
+      "user" : {
+        "user_email" : "deepank411@gmail.com",
+        "user_id" : "x64lnppaucUWopbXat7H7K106P32"
+      }
+    }
+  },
+  "databaseAccess" : {
+    "admins" : {
+      "data" : {
+        "name" : "admins"
+      }
+    },
+    "blogs" : {
+      "data" : {
+        "name" : "blogs"
+      }
+    },
+    "tags" : {
+      "data" : {
+        "name" : "tags"
+      }
+    }
+  },
+  "masterAdmin" : {
+    "P39A95AvbLYLBqZXJUoIlXrpgcx1" : true
+  },
+  "tags" : {
+    "feed" : {
+      "blogs" : {
+        "-KKqsIiu77aWedyyre7U" : true,
+        "-KKvdnAeudrlgicCoSpJ" : true
+      }
+    },
+    "firebase" : {
+      "blogs" : {
+        "-KKqsIiu77aWedyyre7U" : true,
+        "-KKvdnAeudrlgicCoSpJ" : true
+      }
+    },
+    "first" : {
+      "blogs" : {
+        "-KKqsIiu77aWedyyre7U" : true,
+        "-KL2mhlKVlSa_m1e477B" : true
+      }
+    },
+    "second" : {
+      "blogs" : {
+        "-KKvdnAeudrlgicCoSpJ" : true
+      }
+    },
+    "tt" : {
+      "blogs" : {
+        "-KL2mhlKVlSa_m1e477B" : true
+      }
+    }
+  },
+  "users" : {
+    "data" : {
+      "Hj9Tr7D9L8Wk3oLRos9l8piOxZ72" : {
+        "active_flag" : true,
+        "created_time" : "2016-06-24 19:27:52.141531",
+        "email" : {
+          "active_flag" : false,
+          "code" : "5177-4571-8070-6516",
+          "created_time" : "2016-06-24 19:27:52.141601",
+          "email_flag" : true,
+          "used_flag" : true,
+          "user_email" : "arpit@roofpik.com",
+          "verified_time" : "2016-06-24 19:28:22.276693"
+        },
+        "gender" : "male",
+        "mobile" : {
+          "mobile_flag" : false,
+          "mobile_num" : "9876543210"
+        },
+        "name" : "Arpit Mittal",
+        "referral_code" : "",
+        "user_id" : "Hj9Tr7D9L8Wk3oLRos9l8piOxZ72"
+      },
+      "abJi4Am5gthKzmmMPzMQUP9BD412" : {
+        "active_flag" : true,
+        "email" : {
+          "user_email" : "arpit.hello@gmail.com"
+        },
+        "gender" : "male",
+        "name" : "Arpit Mittal",
+        "password" : "QWer12",
+        "uid" : "abJi4Am5gthKzmmMPzMQUP9BD412"
+      },
+      "x64lnppaucUWopbXat7H7K106P32" : {
+        "blogs" : {
+          "-KL2mhlKVlSa_m1e477B" : true
+        }
+      }
+    }
+  }
+}
